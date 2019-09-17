@@ -1,0 +1,178 @@
+result	The aim of the paper (again)	aimed to	Our experiments aimed to answer three questions: Which event chains are worth keeping?
+result	The aim of the paper (again)	aimed to	First, we aimed to get a sense of the difficulty of the task.
+result	The aim of the paper (again)	aimed to	We aimed to extract facts of the 92 most frequent relations in Freebase 2009.
+result	The aim of the paper (again)	aimed to	We aimed to include as many different domains as possible annotated under compatible schemes.
+result	The aim of the paper (again)	the purpose of * was to	The purpose of this stage was to correct obvious mistakes.
+result	The aim of the paper (again)	the purpose of * was to	The purpose of creating this subset model was to simulate a resource-poor language.
+result	The aim of the paper (again)	the purpose of * was to	The purpose of this evaluation was to determine if any patterns consistently produce poor questions.
+result	The aim of the paper (again)	the purpose of * was to	The purpose of this test was to demonstrate possible differences between WSI of different word class combinations.
+result	The aim of the paper (again)	was used to	The validation set was used to estimate performance during algorithm development and the test set was used to generate the final results.
+result	The aim of the paper (again)	was used to	The validation set was used to estimate performance during algorithm development, while the test set was used to generate the final experimental results.
+result	The aim of the paper (again)	were compared	Inputs and summaries were compared using only one metric: cosine similarity.
+result	The aim of the paper (again)	were compared	The four models' predictions were compared to the gold standard annotations.
+result	The aim of the paper (again)	were compared	The extracted 10 words were compared with the manually labeled keywords.
+result	The aim of the paper (again)	was tested	The hardware was tested with 1 core and 5 cores.
+result	The aim of the paper (again)	was tested	The algorithm above was tested in the SILC translation system.
+result	The aim of the paper (again)	was tested	The grammatical channel was tested in the SILC translation system.
+result	The aim of the paper (again)	were used to	Among them, 300 questions were used to train the Japanese answer extractor and 400 questions were used to evaluate our framework.
+result	The aim of the paper (again)	were used to	'Four human judges were used to determine the ''gold standard''.'
+result	The aim of the paper (again)	were used to	Trigram models were used to compute the test word perplexity.
+result	Reference to tables or figures	table * shows	Top table shows Binary Overlap performance; bottom table shows Proportional Overlap performance.
+result	Reference to tables or figures	table * shows	Table 3 shows the BLEU scores, and Table 4 shows the precision.
+result	Reference to tables or figures	table * shows	Table 1 shows topic-length statistics, Table 2 shows document statistics, and Figure 4 shows an example topic.
+result	Reference to tables or figures	table * shows	Table 2 shows the final chunking results and Table 3 shows the final NER F1 results.
+result	Reference to tables or figures	table * shows	Table 10 shows results using unigrams, while Table 10 shows results for primary ciphers generated from bigrams.
+result	Reference to tables or figures	table * compares	Table 5 compares our method with each alternative approach on our data, and Table 6 compares our method with the alternatives on each third-party dataset.
+result	Reference to tables or figures	table * compares	Table 2 compares proposed methods with Espresso with various configurations.
+result	Reference to tables or figures	table * compares	Finally, Table 3 compares the syntactic fluency of the output.
+result	Reference to tables or figures	table * compares	Table 5 compares the number of unique genes and drugs.
+result	Reference to tables or figures	table * compares	Table 1 compares different transducers on an English test case.
+result	Reference to tables or figures	table * presents	Table 6 presents the size of held-out data, and Table 7 presents MRR of the held-out data.
+result	Reference to tables or figures	table * presents	Table 1 gives some examples, and Table 2 presents some statistics.
+result	Reference to tables or figures	table * presents	Table 3 presents our results for different translation table partitioning configurations.
+result	Reference to tables or figures	table * presents	Table 3 presents precision and recall rates when manual word transcriptions are used; Table 4 presents these numbers when speech recognition transcripts are used.
+result	Reference to tables or figures	table * presents	Table 2 presents the results obtained for English and Table 3 for Spanish.
+result	Reference to tables or figures	figure * provides	Figure 5 provides a more detailed characterization of LNQ’s performance.
+result	Reference to tables or figures	figure * provides	Figure 4 provides a rough sketch of the room layout.
+result	Reference to tables or figures	figure * provides	Figure 8 provides an overview of the architecture of MOOSE.
+result	Reference to tables or figures	figure * provides	Figure 3 provides a visual representation of the recall scores.
+result	Reference to tables or figures	the table * illustrates	The second half of the table illustrates Cannot-link tuple rules.
+result	Reference to tables or figures	the table * illustrates	The Table 6 illustrates examples of polar phrases and their polarity values.
+result	Reference to tables or figures	the table * illustrates	The table also illustrates three baseline results on the test data only.
+result	Reference to tables or figures	the top half of the table	The top half of the table shows the results on the English evaluation set.
+result	Reference to tables or figures	the top half of the table	The top half of the table shows the results of intent classification and the results of slot tagging is in the bottom half.
+result	Reference to tables or figures	the bottom half of the table	The bottom half of the table shows cross-domain experiments for Sieve using the lexical heuristic at the end of its rule set (LexEnd).
+result	Reference to tables or figures	as shown in	This is not always true, as shown in Experiment I.
+result	Reference to tables or figures	as shown in	However, as shown in Table 3, they do differ substantially.
+result	Reference to tables or figures	as can be seen from	As can be seen from the table, both translation directions,
+result	Reference to tables or figures	as can be seen from	This is indeed the case, as can be seen from Figure 6.
+result	Reference to tables or figures	as can be seen from	As can be seen from Table 5, over-parameterization is indeed a problem.
+result	Reference to tables or figures	it can be seen from	It can be seen from Table 3 that we have got the expected results.
+result	Reference to tables or figures	it can be seen from	As it can be seen from Table 7, both models improved upon their baselines significantly.
+result	Reference to tables or figures	it can be seen from	It can be seen from Table 7 that the lexical and gazetteer related features are helpful.
+result	Reference to tables or figures	are summarized in table	The results with this setting are summarized in Table 5.
+result	Reference to tables or figures	are summarized in table	Details on the available data are summarized in Table 1.
+result	Reference to tables or figures	are summarized in table	Statistics of the data sets are summarized in Table 3.
+result	Reference to tables or figures	are summarized in table	The statistics of the datasets are summarized in Table 1.
+result	Reference to tables or figures	are presented in	The statistics for this data are presented in Table 1.
+result	Reference to tables or figures	are presented in	The results for both experiments are presented in Table 1.
+result	Reference to tables or figures	are presented in	Results on the movie corpora are presented in Table 2.
+result	Reference to tables or figures	are presented in	The performances of different features are presented in Table 2.
+result	Reference to tables or figures	are presented in	The results are presented in Tables 5, 6, and 7.
+result	Reference to tables or figures	are shown in	The full results for WSJ15 are shown in Table 3 and for WSJ40 are shown in Table 4.
+result	Reference to tables or figures	are shown in	Average values for each method are shown in Figure 1 and comparative values are shown in Figure 2.
+result	Reference to tables or figures	are shown in	Results are shown in the last row of Table 4 and precision-recall curves are shown in Figure 5.
+result	Reference to tables or figures	it is apparent from	It is apparent from Table 2 that unigram features yield curiously high performance in many genres.
+result	Reference to tables or figures	highlighted in table	The significance levels of the improvements over Local are highlighted in Table 4.
+result	Reference to tables or figures	highlighted in table	The effect of weighting samples is highlighted in Table 1, where results are obtained after 1000 samples are selected using the same uncertainty score MATH-w-13-4-0-26 , but with different weighting schemes.
+result	Reference to tables or figures	highlighted in table	This is highlighted in Table 2, where row “B-opt-F” contains the best results optimizing the entity F-measure (at MATH-w-12-11-1-73), row “B-opt-AV” contains the best results optimizing ACE-Value (at MATH-w-12-11-1-93), and the last line “Twin-model” contains the results of the proposed twin-model.
+result	Reference to tables or figures	table * revealing that	Table 2 summarizes the accuracy of various models on three datasets, revealing that our model offers competitive performance, both as a joint model of words and labels (Eq.
+result	Reference to tables or figures	table * revealing that	The results for these representations are shown in the bottom half of Table 2, revealing that V AR E MBED learns much more meaningful embeddings at the morpheme level, while much of the power of S UM E MBED seems to come from the word embeddings.
+result	Reference to tables or figures	from this table	From this table, we have the following observations and analysis:
+result	Reference to tables or figures	from this table	From this table, we can see clustering-based method outperforms TextRank and Hulth’s method.
+result	Reference to tables or figures	from this table	We see from this table that the results are similar across the two tasks.
+result	Description of the results	the mean score for * was	The mean score for those with extensive formal training was 90.9%.
+result	Description of the results	the mean score for * was	In contrast, the mean score for BIN on the Choi standard data (Fig. 2) was 45% for the linear measure and 43% for the hierarchical measure.
+result	Description of the results	further analysis showed that	Further analysis showed that the tense contributed significantly to the adjacent accuracy of classifying the C1 and C2 texts.
+result	Description of the results	further analysis showed that	Further analysis showed that its bad performance is due to our choice of confounders as highly similar lemmas (cf. Section 2).
+result	Description of the results	further analysis showed that	Further analysis showed that the differences in performance over different subcorpora seem linked to the behavior of different partial taggers when used in combination.
+result	Description of the results	revealed that	Further testing revealed that accuracy outside NEs was near 99%.
+result	Description of the results	revealed that	It is thus revealed that chat language is indeed dynamic.
+result	Description of the results	revealed that	The analysis revealed that both structural and syntactic features are important.
+result	Description of the results	revealed that	It is revealed that our transliteration model can saliently reduce OOVs.
+result	Description of the results	were shown to	Different initial values were shown to affect the results of training to some extent (Table 1).
+result	Description of the results	were shown to	These metrics were shown to perform well for single document text summarization, especially for short summaries.
+result	Description of the results	evidence was found	Where suitable evidence was found, the RTE component incorrectly classified 13.84% (MATH-w-22-1-0-117) of claims.
+result	Description of the results	significant at	Scores marked * are significant at p < .05 and scores marked ** are significant at p < .01
+result	Description of the results	significant at	The MT06 result is statistically significant at MATH-w-15-6-0-22; MT08 is significant at p ≤ 0.02.
+result	Description of the results	significant at	The comparison between dep1-L and dep1c-L is significant at p < 0.05, and all other comparisons are significant at p < 0.0005.
+result	Description of the results	significant at	All reported results are statistically significant at the 0.05 level.
+result	Description of the results	the results indicate that	The results indicate that the sciences and humanities share several topics.
+result	Description of the results	the results indicate that	The results indicate that CWBS is a competitive alternative to MSCG.
+result	Description of the results	the results indicate that	The results indicate that both parts are effective for relation classification.
+result	Description of the results	the results indicate that	The results indicate that approaching the oracle’s improvements are indeed feasible.
+result	Description of the results	the results indicate that	The results indicate that time-aware embedding outperforms all the baselines consistently.
+result	Description of the results	there was * correlation	There was no correlation between agreement/disagreement and emotionality (MATH-w-5-1-2-38, ns).
+result	Description of the results	there was * correlation	There was a correlation of about -0.1 between the STAR language score and total clicks across all the documents.
+result	Description of the results	there was * correlation	There was positive correlation (MATH-w-9-1-3-33) between the F1 score for a given class and the raw number of training examples representing that class.
+result	Description of the results	the difference * was significant	The difference in recall between S UMMA and T IMELINE was significant in both cases, and the difference between S UMMA and F LAT -MDS was not.
+result	Description of the results	the difference * was significant	For the top three items, the difference between Markov (0.7968) and LSA (0.9965) was significant at the MATH-w-12-4-1-150 level.
+result	Description of the results	there was a significant difference	There was a significant difference in performance across different relations.
+result	Description of the results	there was a significant difference	First, there was a significant difference in the variability of judges’ responses between items that were incorrectly classified and those that were correct (66% vs. 73%, respectively; two-sample t test: MATH-w-15-9-2-88, MATH-w-15-9-2-98.02).
+result	Description of the results	no * was detected	No statistically significant decrease in accuracy was detected in any of the algorithm/dataset combinations.
+result	Description of the results	no * was observed	In practice no change in performance was observed after about 15 iterations.
+result	Description of the results	no * was observed	However, no such pattern was observed for multiplicative models and conicity was consistently similar across frequency bins.
+result	Description of the results	no * was observed	No significant improvement was observed in the results when the value of MPR was greater than 5.
+result	Description of the results	no * were found	No cases for which Recommendation 6 applies were found in the test corpus.
+result	Description of the results	no * were found	No significant differences in label chunking accuracy were found between Bayes and MAP inference.
+result	Description of the results	no * were found	However, no significant differences were found between experiments with a different number of skips.
+result	Description of the results	none of * statistically significant	None of the variations gives a statistically significant improvement over the content-only baseline.
+result	Description of the results	none of * statistically significant	Note however that none of the differences between the different feature combinations involving verbs are statistically significant.
+result	Description of the results	none of * statistically significant	None of the differences are statistically significant which lets us conclude that interpretability of induced descriptors is comparable for the RMN and MVPlot.
+result	Description of the results	no * was found	No significant interaction effect was found for module by group.
+result	Description of the results	no * was found	Also, all the extracted phrase-initial prepositions were examined and no controversy was found.
+result	Description of the results	no * was found	For 7.31% of the annotated events, no matching temporal expression was found in the document.
+result	Description of the results	unaffected by	AUC scores are largely unaffected by change in label balance.
+result	Description of the results	unaffected by	On the other hand, additive models remain unaffected by these changes.
+result	Description of the results	only * were detected	In the case of the LDA model, only 23 bursty topics were detected.
+result	Description of the results	only * were detected	By contrast, only a few inserted clauses were detected even if dependency structures were used.
+result	Description of the results	there was no evidence	However, there was no evidence that the tailored letters were any better than the non-tailored ones in terms of increasing cessation rates.
+result	Description of the results	did not show	Preliminary tuning experiments did not show gains when using such features.
+result	Description of the results	did not show	Further addition of any feature did not show any significant improvement.
+result	Description of the results	did not show	(The other 3 entrainment variables did not show significant relationships with participation.)
+result	Description of the results	did not affect	In contrast, RULE , SYM , and LE features did not affect the accuracy.
+result	Description of the results	did not affect	Discarding bottom ranked features (up to 50%), also, did not affect the results significantly.
+result	Description of the results	did not affect	This did not affect to English results because of the spareness of “vague” links.
+result	Description of the results	found no	But we still found no improvement over using NSF alone.
+result	Description of the results	found no	We found no significant improvement when the alternative was used.
+result	Description of the results	found no	Accordingly, we found no noticeable bias with regard to their numbers.
+result	Description of the results	did not increase	We ran such experiments, but found that accuracy did not increase significantly and in some cases decreased slightly.
+result	Description of the results	did not increase	Reranking with a larger number of trees (MATH-w-12-6-0-257) did not increase performance significantly.
+result	Description of the results	did not increase	We allowed our model to tune on the gold data, which surprisingly did not increase performance particularly much.
+result	Description of the results	a significant increase	There is a significant increase between “C:±2” and “C:±1” models.
+result	Description of the results	a significant increase	The pluses indicate a significant increase to the baseline, the minuses show a significant decrease.
+result	Description of the results	a significant increase	We also notice a significant increase in similarity between Romanian and English in the modern period.
+result	Description of the results	no significant difference	These features cause no significant difference in score (line 5).
+result	Description of the results	no significant difference	Both results are almost the same with no significant difference.
+result	Description of the results	no significant difference	There was no significant difference in learning gain between conditions.
+result	Description of the results	no significant difference	There was no significant difference between the performances of our models.
+result	interesting or surprising results	interestingly	Interestingly, ICA and ILP improve over Local in different ways.
+result	interesting or surprising results	interestingly	Interestingly, 6 of these make both syntactic and semantic sense.
+result	interesting or surprising results	interestingly	Interestingly, all updates with Laplacian prior resulted in low performance.
+result	interesting or surprising results	counterintuitive	Although this might be counterintuitive, given that WCNs improve the slot accuracy overall.
+result	interesting or surprising results	counterintuitive	This is very counterintuitive, and we are still trying hard to find its real cause.
+result	interesting or surprising results	more surprising	More surprising, however, is the mediocre performance of the WordNet lemmatizer.
+result	interesting or surprising results	more surprising	The results for the more challenging English-Chinese pair were more surprising.
+result	interesting or surprising results	more surprising	What is more surprising is that the BASE 2 version slightly underperforms the baseline.
+result	interesting or surprising results	more surprising	However, it is more surprising that DEPS and DEPS+ also display a very high variation.
+result	interesting or surprising results	surprisingly	Surprisingly, the joint models outperform slightly, yielding a 0.4% improvement.
+result	interesting or surprising results	surprisingly	Surprisingly, even ambiguous feature constraints are able to improve accuracy.
+result	interesting or surprising results	surprisingly	Surprisingly, GUSPEE even surpassed the supervised upper bound of MultiR.
+result	interesting or surprising results	the most surprising	The most surprising finding is that the best performance was achieved by the unlexicalized PCFG baseline model.
+result	interesting or surprising results	the most surprising	The most surprising result is that the k-means baseline is actually the strongest performer in the location and communication aspects.
+result	interesting or surprising results	the most surprising	One of the most surprising results of our experiments is that the object of the action alone is a very effective feature, achieving 89.04%.
+result	interesting or surprising results	interesting because	The sixth row is interesting because Dave Toub is indeed affiliated with the Chicago Bears .
+result	interesting or surprising results	interesting because	This is interesting because these two SE-types constitute the broader SE category of generalizing statives.
+result	interesting or surprising results	interesting because	This is particularly interesting because our separate instance-based segmenter is highly accurate, achieving 98% segmentation accuracy.
+result	interesting or surprising results	interesting because	This is very interesting, because generating high-quality long phrases is difficult, since the memes are often short.
+result	interesting or surprising results	the most striking	The most striking is the interaction between phrases and morphology.
+result	interesting or surprising results	the most striking	The most striking fact about this graph is the tremendous efficiency of the extension model.
+result	comparison of the results	comparing * it can be seen that	When comparing the two online learning models, it can be seen that MIRA outperforms the averaged perceptron method.
+result	comparison of the results	comparing * it can be seen that	By comparing the tagging accuracy for all words in tables 2 and 3, it can be seen that the accuracy had be underestimated by 0.13-0.18 percentage points.
+result	comparison of the results	comparing * it can be seen that	Comparing the F1-macro with and without lexicon, it can be seen that the additional information stored in the lexicon strongly increases the score by about 20 points for English data.
+result	Summary of the results	these results suggest that	These results suggest that rewriting is estimated to improve translation quality.
+result	Summary of the results	these results suggest that	These results suggest that our approach works well across different sources.
+result	Summary of the results	these results suggest that	These results suggest that SVR is the superior classifier in this case.
+result	Summary of the results	these results suggest that	These results suggest that explicit negative sentiments are not generally indicative of sarcasm.
+result	Summary of the results	these results suggest that	These results suggest that a generative approach to unsupervised event coreference holds promise.
+result	Summary of the results	these results indicate that	These results indicate that leveraging unlabeled data yields significant improvements.
+result	Summary of the results	these results indicate that	These results indicate that the topic modeler separates topics very efficiently.
+result	Summary of the results	these results indicate that	These results indicate that our MGL generates responses with higher quality.
+result	Summary of the results	these results show that	These results show that the LexHMM is modelling ambiguity classes as intended.
+result	Summary of the results	these results show that	These results show that stage 2 is central to the aligner’s success.
+result	Summary of the results	these results show that	These results show that PRINCIPAR compares quite well with both CFG parsers.
+result	Summary of the results	taken together these results	Taken together, these results indicate that US IM , even in its automatic variant, is sensitive to semantic changes.
+result	Summary of the results	taken together these results	Taken together these results indicate that the ILP models perform a fair amount of rewriting without simply rehashing the source sentence.
+result	Summary of the results	taken together these results	Taken together, these results suggest that model combination contributes to the success of both models, but to a larger extent for RG.
+result	Summary of the results	taken together these results	Taken together, these results indicate that the frequency of the construction is more important than the size of the training set for this type of transformation.
+result	Summary of the results	taken together these results	Taken together, these results are consistent with the idea that, at least for a significant portion of the data, the incorrect judgments made by both the judges and the model may have occurred on passages for which either including or omitting the connective would have been acceptable.
