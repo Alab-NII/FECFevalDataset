@@ -1,126 +1,126 @@
-Description of the process	create one language model	11 models were then interpolated to create one language model.	N07-2033_s-4-1-1-2
-Criteria for selection	set of Arabic Wikipedia	A larger set of Arabic Wikipedia articles, selected on the basis of quality heuristics, serves as unlabeled data for semisupervised learning.	E12-1017_s-7-1-0-3
-Reasons why a method was adopted or rejected	classify the dialogue acts	A logistic regression approach was used to classify the dialogue acts based on the above feature vectors.	P11-1119_s-15-1-0-0
-Reasons why a method was adopted or rejected	for database access and	A major advantage of current BPM systems (as well as their support for database access and enterprise system integration etc.) is their graphical development and authoring environments.	E06-2004_s-2-6-0-0
-Methodology used in past work	co-occurrences of words such	A number of techniques used for finding collocations and co-occurrences of words, such as mutual information, may well be used to search co-occurrence tendency between the question and the candidate answer in the Web.	P02-1054_s-3-6-1-3
-Methodology used in past work	average of the individual	A well-established approach in language modelling is the linear interpolation of several models, i.e. computing the weighted average of the individual model probabilities.	E12-1055_s-4-1-0-0
-Reasons why a method was adopted or rejected	initial pilot annotation study	After an initial pilot annotation study, the following annotation policy was adopted to overcome common disagreements: (1) When the argument is a noun and it is part of a definite description then include the entire definite description.	P06-2104_s-4-3-0-2
-Description of the process	MATH-w-6-1-2-101 with different document-topic	After collection, we get a set of instances MATH-w-6-1-2-101 with different document-topic distributions for each bilingual term pair.	D14-1060_s-6-1-2-2
-Description of the process	embedding matrices are ready	After training, the learned embedding matrices are ready to be used.	N18-2054_s-9-1-1-0
-Description of the process	can apply the resulting	After training, we can apply the resulting model to resolve AZPs.	D14-1084_s-10-1-0-0
-Using methods used in past work	expressions are generated in	Afterwards, according to the procedure proposed in (CITE-p-14-3-7), the domain-dependent logic expressions are generated in (d).	N18-1060_s-5-1-0-4
-Characteristics of samples or data	students in various disciplines	All data was annotated by 22 undergraduate and graduate students in various disciplines who were recruited for the task.	P14-2064_s-3-3-1-1
-Characteristics of samples or data	the participants are nonnative	All the meetings in the AMI corpus are spoken in English, but over half the participants are nonnative speakers.	N10-1001_s-3-9-0-0
-Description of the process	unigrams bigrams and trigrams	All unigrams, bigrams, and trigrams were taken from each response.	P15-2016_s-5-1-0-1
-Description of the process	trained over the labeled	An LR classifier was then trained over the labeled sentences.	D15-1050_s-8-1-1-1
-Reasons why a method was adopted or rejected	tagger is its relatively	Another advantage of the discriminative tagger is its relatively good prediction power of the longer-distance dependencies.	J16-3002_s-29-11-2-5
-Reasons why a method was adopted or rejected	this structure is that	Another advantage of this structure is that it allows us to find the ‘hidden fragments’.	D10-1038_s-11-1-2-1
-Description of the process	to analyze the dataset	Approval to analyze the dataset was obtained from the Stanford IRB.	Q16-1033_s-4-5-1-5
-Description of the process	and summaries are paired	Articles and summaries are paired by document, so the first step was to perform sentence alignment.	N07-1023_s-6-1-0-1
-Reasons why a method was adopted or rejected	they are trivially parallelizable	As we will show, Sequential Monte Carlo (SMC) algorithms have a number of advantages in this setting: they permit the efficient computation of both the outer and inner expectations, they are trivially parallelizable, and the number of samples provides an intuitive tuning tradeoff between accuracy and speed.	D13-1007_s-5-9-1-4
-Methodology used in past work	most notably in statistical	Backoff models have been used in a variety of ways in natural language processing, most notably in statistical language modeling.	E06-1006_s-4-1-0-2
-Description of the process	on the training corpus	Compound splitting is performed on the training corpus, prior to training.	E09-3008_s-7-7-1-3
-Description of the process	then applied to these	Dropout is then applied to these vectors prior to classification.	S18-1185_s-4-5-0-0
-Description of the process	we randomly pull 200	Finally, we randomly pull 200 tweets for each identified user.	D16-1107_s-5-1-0-3
-Using methods used in past work	Japanese lexical substitution dataset	First, a Japanese lexical substitution dataset was constructed using the same method as CITE-p-22-3-1.	P15-3006_s-7-1-0-1
-Characteristics of samples or data	concept the preferred term	For each concept, the preferred term as well as the synonyms were included in the dictionary.	S15-2064_s-5-1-1-3
-Using methods used in past work	assign labels to the	For each set, we assign labels to the extracted subtrees according to their frequencies by using the same method as that of CITE-p-28-1-4.	D11-1007_s-14-4-0-3
-Description of the process	For our experiments the	For our experiments, the text was obtained from MEDLINE 2001 2 .	P04-1055_s-4-1-0-0
-Characteristics of samples or data	processing purposes the corpus	For processing purposes, the corpus was divided into 3500 segments.	D16-1017_s-4-1-2-0
-Description of the process	with the standard splits	For supertagging, experiments were run with the standard splits of CCGbank.	N16-1027_s-8-1-0-0
+Description of the process	to create	11 models were then interpolated to create one language model.	N07-2033_s-4-1-1-2
+Criteria for selection	A larger set of Arabic	A larger set of Arabic Wikipedia articles, selected on the basis of quality heuristics, serves as unlabeled data for semisupervised learning.	E12-1017_s-7-1-0-3
+Reasons why a method was adopted or rejected	dialogue acts based on	A logistic regression approach was used to classify the dialogue acts based on the above feature vectors.	P11-1119_s-15-1-0-0
+Reasons why a method was adopted or rejected	development and authoring environments	A major advantage of current BPM systems (as well as their support for database access and enterprise system integration etc.) is their graphical development and authoring environments.	E06-2004_s-2-6-0-0
+Methodology used in past work	the question and the	A number of techniques used for finding collocations and co-occurrences of words, such as mutual information, may well be used to search co-occurrence tendency between the question and the candidate answer in the Web.	P02-1054_s-3-6-1-3
+Methodology used in past work	language modelling is the	A well-established approach in language modelling is the linear interpolation of several models, i.e. computing the weighted average of the individual model probabilities.	E12-1055_s-4-1-0-0
+Reasons why a method was adopted or rejected	part of a	After an initial pilot annotation study, the following annotation policy was adopted to overcome common disagreements: (1) When the argument is a noun and it is part of a definite description then include the entire definite description.	P06-2104_s-4-3-0-2
+Description of the process	distributions for	After collection, we get a set of instances MATH-w-6-1-2-101 with different document-topic distributions for each bilingual term pair.	D14-1060_s-6-1-2-2
+Description of the process	learned embedding	After training, the learned embedding matrices are ready to be used.	N18-2054_s-9-1-1-0
+Description of the process	to resolve	After training, we can apply the resulting model to resolve AZPs.	D14-1084_s-10-1-0-0
+Using methods used in past work	proposed in cite- the	Afterwards, according to the procedure proposed in (CITE-p-14-3-7), the domain-dependent logic expressions are generated in (d).	N18-1060_s-5-1-0-4
+Characteristics of samples or data	graduate students in	All data was annotated by 22 undergraduate and graduate students in various disciplines who were recruited for the task.	P14-2064_s-3-3-1-1
+Characteristics of samples or data	AMI corpus	All the meetings in the AMI corpus are spoken in English, but over half the participants are nonnative speakers.	N10-1001_s-3-9-0-0
+Description of the process	unigrams bigrams and	All unigrams, bigrams, and trigrams were taken from each response.	P15-2016_s-5-1-0-1
+Description of the process	LR classifier	An LR classifier was then trained over the labeled sentences.	D15-1050_s-8-1-1-1
+Reasons why a method was adopted or rejected	tagger is its	Another advantage of the discriminative tagger is its relatively good prediction power of the longer-distance dependencies.	J16-3002_s-29-11-2-5
+Reasons why a method was adopted or rejected	allows us to	Another advantage of this structure is that it allows us to find the ‘hidden fragments’.	D10-1038_s-11-1-2-1
+Description of the process	the Stanford IRB	Approval to analyze the dataset was obtained from the Stanford IRB.	Q16-1033_s-4-5-1-5
+Description of the process	Articles and summaries are paired	Articles and summaries are paired by document, so the first step was to perform sentence alignment.	N07-1023_s-6-1-0-1
+Reasons why a method was adopted or rejected	inner expectations they are trivially	As we will show, Sequential Monte Carlo (SMC) algorithms have a number of advantages in this setting: they permit the efficient computation of both the outer and inner expectations, they are trivially parallelizable, and the number of samples provides an intuitive tuning tradeoff between accuracy and speed.	D13-1007_s-5-9-1-4
+Methodology used in past work	Backoff models have been used	Backoff models have been used in a variety of ways in natural language processing, most notably in statistical language modeling.	E06-1006_s-4-1-0-2
+Description of the process	the training	Compound splitting is performed on the training corpus, prior to training.	E09-3008_s-7-7-1-3
+Description of the process	is then	Dropout is then applied to these vectors prior to classification.	S18-1185_s-4-5-0-0
+Description of the process	tweets	Finally, we randomly pull 200 tweets for each identified user.	D16-1107_s-5-1-0-3
+Using methods used in past work	a Japanese lexical substitution dataset	First, a Japanese lexical substitution dataset was constructed using the same method as CITE-p-22-3-1.	P15-3006_s-7-1-0-1
+Characteristics of samples or data	each concept the	For each concept, the preferred term as well as the synonyms were included in the dictionary.	S15-2064_s-5-1-1-3
+Using methods used in past work	For each set we assign	For each set, we assign labels to the extracted subtrees according to their frequencies by using the same method as that of CITE-p-28-1-4.	D11-1007_s-14-4-0-3
+Description of the process	our experiments the	For our experiments, the text was obtained from MEDLINE 2001 2 .	P04-1055_s-4-1-0-0
+Characteristics of samples or data	purposes the corpus	For processing purposes, the corpus was divided into 3500 segments.	D16-1017_s-4-1-2-0
+Description of the process	the standard	For supertagging, experiments were run with the standard splits of CCGbank.	N16-1027_s-8-1-0-0
 Description of the process	employ validation in training	For this reason, it was necessary to employ validation in training.	J03-1004_s-9-27-0-2
-Reasons why a method was adopted or rejected	all three word classes	Frequency 25 was chosen because it is a medium frequency for all three word classes.	E97-1015_s-4-2-1-1
-Description of the process	of projects and authors	Further, online reference lists of projects and authors concerned with manual annotations were searched.	J11-4004_s-5-1-0-4
-Description of the process	Furthermore we use a	Furthermore, we use a fixed random seed to enable replicability.	S18-1032_s-14-1-0-5
-Reasons why a method was adopted or rejected	similarity is that it	However, the main disadvantage of this approach to estimate interlingual text similarity is that it strongly relies on the availability of a multilingual lexical resource.	P06-1070_s-5-1-0-2
-Description of the process	a feature ablation experiment	In order to assess the contribution of each group to the overall system performance, we performed a feature ablation experiment.	N13-1133_s-22-1-0-4
-Description of the process	the quality of the	In order to assess the quality of the guidelines and the annotation, we conducted an inter-annotator agreement study.	Q14-1042_s-4-9-1-0
+Reasons why a method was adopted or rejected	three word classes	Frequency 25 was chosen because it is a medium frequency for all three word classes.	E97-1015_s-4-2-1-1
+Description of the process	of projects	Further, online reference lists of projects and authors concerned with manual annotations were searched.	J11-4004_s-5-1-0-4
+Description of the process	fixed random	Furthermore, we use a fixed random seed to enable replicability.	S18-1032_s-14-1-0-5
+Reasons why a method was adopted or rejected	to estimate interlingual text	However, the main disadvantage of this approach to estimate interlingual text similarity is that it strongly relies on the availability of a multilingual lexical resource.	P06-1070_s-5-1-0-2
+Description of the process	group to the overall	In order to assess the contribution of each group to the overall system performance, we performed a feature ablation experiment.	N13-1133_s-22-1-0-4
+Description of the process	we conducted an inter-annotator	In order to assess the quality of the guidelines and the annotation, we conducted an inter-annotator agreement study.	Q14-1042_s-4-9-1-0
 Description of the process	on minimum pronunciation length	In order to control for this a bound on minimum pronunciation length can be utilized.	N04-1017_s-7-3-1-3
-Description of the process	network structure heuristic rules	In order to determine the most probable phrase combination in network structure, heuristic rules axe applied.	P86-1024_s-6-10-0-0
+Description of the process	in network structure heuristic	In order to determine the most probable phrase combination in network structure, heuristic rules axe applied.	P86-1024_s-6-10-0-0
 Description of the process	content terms from the	In order to identify such terms, we first extract all content terms from the query.	P14-1115_s-6-1-0-1
-Description of the process	rather than isolated words	In order to measure the semantic similarity between tweets, rather than isolated words, we needed a way to obtain vector representations of documents.	S16-1072_s-7-1-1-0
-Description of the process	whose parameters gets incrementally	In order to understand the temporal nature of healthcare data, we need to develop deep learning models whose parameters gets incrementally updated with time.	P18-3005_s-8-3-5-3
-Methodology used in past work	kernels from trained probabilistic	In recent years, several methods have been proposed for constructing kernels from trained probabilistic models.	P05-1023_s-3-1-0-0
-Using methods used in past work	described in Pharaoh cite-	In this paper, the distortion probability in equation (2) is estimated during decoding, using the same method as described in Pharaoh (CITE-p-21-1-10).	D07-1030_s-6-1-1-0
-Description of the process	total over 10000 commands	In total, over 10,000 commands were collected through the game.	S14-2006_s-6-1-0-0
-Criteria for selection	the control group were	Inclusion criteria for the control group were elderlies with no cognitive deficits and preservation of functional capacity in everyday life.	P17-1118_s-8-4-0-2
-Description of the process	Keywords are used both	Keywords are used both in order to identify thematically relevant tweets and also targets.	E17-1046_s-5-1-0-6
-Methodology used in past work	in the WSD field	Learning mechanisms for disambiguating word senses have a long tradition in the WSD field.	S01-1031_s-5-1-0-0
-Methodology used in past work	Logical forms for other	Logical forms for other VNMAs have been developed along similar lines.	E03-1067_s-5-3-0-1
-Reasons why a method was adopted or rejected	performance and results that	Logistic regression was chosen because it produces a model with high performance and results that are easily interpretable.	D13-1094_s-5-1-0-1
-Methodology used in past work	clustering eg cite- cite-	Many methods exist for clustering, e.g., (CITE-p-15-1-0, CITE-p-15-1-4, CITE-p-15-1-21, CITE-p-15-1-11).	E06-1050_s-5-1-0-3
-Using methods used in past work	0 can be parsed	Model 0 can be parsed by adapting standard top-down or bottom-up chart parsing techniques.	P10-1001_s-9-6-1-0
-Description of the process	using the output of	Negation relations were identified using the output of the dependency parser.	S14-2070_s-5-7-0-2
-Description of the process	randomly shuffling the original	Negative examples were generated by randomly shuffling the original set of 1385 pairs.	D16-1234_s-4-1-2-2
-Characteristics of samples or data	for a language impairment	No children met the criteria for a language impairment, and there were no significant between-group differences in age or full-scale IQ.	P15-2035_s-3-1-0-2
-Characteristics of samples or data	two groups were selected	None of the participants analyzed here met the criteria for language impairment, and the two groups were selected so that there were no statistically significant differences (via two-tailed t-test) between the groups in chronological age, verbal IQ, and full scale IQ.	P17-2006_s-4-1-0-2
-Description of the process	to ENTITY which not	Note that all species words (e.g., Drosophila) were normalised to “SPECIESWORD”, and entities (e.g., Kip3) to “ENTITY”, which not only reduces the noise in the feature set, but also makes the model more species-generic.	D09-1157_s-9-3-1-8
-Description of the process	comprehensive range of objects	Once these games were completed, we prioritized ordering based on object category to include a comprehensive range of objects.	D14-1086_s-9-1-0-3
-Reasons why a method was adopted or rejected	RNN is that it	One advantage of the RNN is that it considers the word order in the event expression, which can be important.	N18-1174_s-7-1-2-1
-Reasons why a method was adopted or rejected	that it enables us	One advantage of the discriminative method is that it enables us to incorporate arbitrary features.	D13-1026_s-8-1-0-0
-Methodology used in past work	is the lexicalized reordering	One of the most well known is the lexicalized reordering model (CITE-p-23-1-16).	E09-1043_s-16-1-0-1
-Characteristics of samples or data	not appear in the	Only wordforms that did not appear in the first gold standard were included in the second one.	E09-1015_s-12-3-3-2
+Description of the process	words we needed a	In order to measure the semantic similarity between tweets, rather than isolated words, we needed a way to obtain vector representations of documents.	S16-1072_s-7-1-1-0
+Description of the process	temporal nature of healthcare	In order to understand the temporal nature of healthcare data, we need to develop deep learning models whose parameters gets incrementally updated with time.	P18-3005_s-8-3-5-3
+Methodology used in past work	In recent years several	In recent years, several methods have been proposed for constructing kernels from trained probabilistic models.	P05-1023_s-3-1-0-0
+Using methods used in past work	the distortion probability in equation	In this paper, the distortion probability in equation (2) is estimated during decoding, using the same method as described in Pharaoh (CITE-p-21-1-10).	D07-1030_s-6-1-1-0
+Description of the process	over 10000	In total, over 10,000 commands were collected through the game.	S14-2006_s-6-1-0-0
+Criteria for selection	capacity in	Inclusion criteria for the control group were elderlies with no cognitive deficits and preservation of functional capacity in everyday life.	P17-1118_s-8-4-0-2
+Description of the process	relevant tweets and also	Keywords are used both in order to identify thematically relevant tweets and also targets.	E17-1046_s-5-1-0-6
+Methodology used in past work	disambiguating word senses	Learning mechanisms for disambiguating word senses have a long tradition in the WSD field.	S01-1031_s-5-1-0-0
+Methodology used in past work	for other VNMAs	Logical forms for other VNMAs have been developed along similar lines.	E03-1067_s-5-3-0-1
+Reasons why a method was adopted or rejected	and results that	Logistic regression was chosen because it produces a model with high performance and results that are easily interpretable.	D13-1094_s-5-1-0-1
+Methodology used in past work	for clustering	Many methods exist for clustering, e.g., (CITE-p-15-1-0, CITE-p-15-1-4, CITE-p-15-1-21, CITE-p-15-1-11).	E06-1050_s-5-1-0-3
+Using methods used in past work	Model 0	Model 0 can be parsed by adapting standard top-down or bottom-up chart parsing techniques.	P10-1001_s-9-6-1-0
+Description of the process	dependency parser	Negation relations were identified using the output of the dependency parser.	S14-2070_s-5-7-0-2
+Description of the process	the original	Negative examples were generated by randomly shuffling the original set of 1385 pairs.	D16-1234_s-4-1-2-2
+Characteristics of samples or data	significant between-group differences	No children met the criteria for a language impairment, and there were no significant between-group differences in age or full-scale IQ.	P15-2035_s-3-1-0-2
+Characteristics of samples or data	of the participants	None of the participants analyzed here met the criteria for language impairment, and the two groups were selected so that there were no statistically significant differences (via two-tailed t-test) between the groups in chronological age, verbal IQ, and full scale IQ.	P17-2006_s-4-1-0-2
+Description of the process	model more	Note that all species words (e.g., Drosophila) were normalised to “SPECIESWORD”, and entities (e.g., Kip3) to “ENTITY”, which not only reduces the noise in the feature set, but also makes the model more species-generic.	D09-1157_s-9-3-1-8
+Description of the process	based on	Once these games were completed, we prioritized ordering based on object category to include a comprehensive range of objects.	D14-1086_s-9-1-0-3
+Reasons why a method was adopted or rejected	event expression which	One advantage of the RNN is that it considers the word order in the event expression, which can be important.	N18-1174_s-7-1-2-1
+Reasons why a method was adopted or rejected	discriminative method is	One advantage of the discriminative method is that it enables us to incorporate arbitrary features.	D13-1026_s-8-1-0-0
+Methodology used in past work	lexicalized reordering model	One of the most well known is the lexicalized reordering model (CITE-p-23-1-16).	E09-1043_s-16-1-0-1
+Characteristics of samples or data	the first gold	Only wordforms that did not appear in the first gold standard were included in the second one.	E09-1015_s-12-3-3-2
 Using methods used in past work	Our CNN implementation is	Our CNN implementation is based on the architecture proposed by CITE-p-12-1-4.	S16-1043_s-4-1-0-0
-Description of the process	any selection of a	Our tests were run without any selection of a subject area.	E97-1015_s-8-3-7-0
-Description of the process	available in the articles	Paragraphs were identified based on formatting information available in the articles.	P11-2117_s-4-1-1-1
-Reasons why a method was adopted or rejected	Parsing partsof-speech and constituency	Parsing: partsof-speech and constituency parsing using a shift-reduce parser 2 , which was selected for its speed over accuracy.	S17-2108_s-5-5-5-1
-Description of the process	by the presence of	Questions were coded simply by the presence of question marks.	N09-1072_s-8-4-1-3
-Methodology used in past work	testbeds for text categorization	Reuters-21578 6 is one of the most common testbeds for text categorization.	P06-1133_s-5-8-2-1
-Description of the process	Seven possible types of	Seven possible types of relationships between TREATMENT and DISEASE were identified.	P04-1055_s-4-1-0-2
-Methodology used in past work	SMT using pivot languages	Several methods have been proposed for SMT using pivot languages.	P15-2094_s-6-1-0-0
-Methodology used in past work	smoothing ME models see	Several methods have been proposed for smoothing ME models (see CITE-p-7-1-3).	E03-1071_s-3-1-0-0
-Methodology used in past work	Singular value decomposition SVD	Singular value decomposition (SVD) is traditionally used to perform this factorization.	D13-1090_s-4-1-0-3
-Description of the process	including approximately 50 stimulus	Six different surveys, each including approximately 50 stimulus words, were administered for each region.	D17-1241_s-4-3-1-2
-Characteristics of samples or data	3 and 23 words	Slightly over half of the definitions have a length of 5–16 words; 75% have lengths between 3 and 23 words.	D13-1073_s-12-4-0-5
-Methodology used in past work	SVMs are one of	Support vector machines (SVMs) are one of the most popular methods for text classification, largely because they can automatically weight large numbers of features, capturing feature interactions in the process (CITE-p-18-1-13, CITE-p-18-3-5).	N10-1027_s-9-1-0-0
-Characteristics of samples or data	training and testing segments	The 79 subcategories were divided into training and testing segments.	S12-1047_s-8-1-0-0
-Reasons why a method was adopted or rejected	formulation are summarized in	The advantages of the new formulation are summarized in Table 1.	N04-2010_s-3-7-1-12
-Reasons why a method was adopted or rejected	which can be calculated	The benefit of this approach is that the calculation for merging two clusters depends only on coreference decisions between individual strings, which can be calculated independently.	N07-1016_s-9-1-1-1
-Reasons why a method was adopted or rejected	generalisation power once a	The benefit of this approach lies in its generalisation power: once a function between the two semantic spaces is learnt, it can be used to see how an unseen concept relates to other concepts, just by looking at an image of that concept.	N16-1071_s-5-5-1-0
-Criteria for selection	choice of related pairs	The choice of related pairs in this dataset was drawn from VCL in the following way.	N18-2032_s-8-1-0-0
-Description of the process	clusters of coreferential entities	The coreference feature value was calculated using clusters of coreferential entities.	S14-2139_s-5-3-1-1
-Characteristics of samples or data	and testing 25 sets	The corpus was divided into training (75%) and testing (25%) sets.	N06-3006_s-5-4-1-0
-Criteria for selection	the next candidate sentence	The criteria for selecting the next candidate sentence to annotate can then be described as: MATH-p-9-9-0 where MATH-p-9-11-0	P13-3011_s-9-8-1-0
-Reasons why a method was adopted or rejected	a few variations for	The cutoff of 20% was chosen to allow a few variations for most phones.	N09-3006_s-12-2-1-1
-Reasons why a method was adopted or rejected	overlap between discriminant features	The data split was chosen to have minimal overlap between discriminant features.	S18-1170_s-3-3-3-2
-Description of the process	study conducted by the	The dataset was obtained from a previous study conducted by the authors.	P17-1131_s-4-1-0-1
-Description of the process	an i5 28 GHz	The experiments were performed on an i5, 2.8 GHz processor.	D14-1171_s-4-10-0-6
-Description of the process	unclear references can be	The experts could access the premises to see if unclear references can be resolved.	E17-1105_s-13-6-1-0
-Characteristics of samples or data	both Washington DC and	The first dataset called LabWriting consists of 93 patients with schizophrenia who were recruited from sites in both Washington, D.C. and New York City.	S17-1028_s-4-1-0-0
-Description of the process	the surprise languages and	The first step was to identify the languages which are syntactically related to the surprise languages and whose treebanks are in Universal Dependency corpus.	K17-3019_s-5-3-1-0
-Description of the process	using the Magnitude Estimation	The human ratings were gathered using the Magnitude Estimation technique (CITE-p-13-1-0).	E06-1044_s-5-1-4-7
-Description of the process	The input order is	The input order is randomized, to prevent spurious order effects.	P16-3010_s-8-1-1-1
-Description of the process	lines between matching sentences	The judges were asked to draw lines between matching sentences.	J93-1004_s-7-1-1-3
-Reasons why a method was adopted or rejected	is that word embeddings	The main disadvantage of simple concatenation is that word embeddings are commonly used to initialize words in DNN systems; thus, the high-dimensionality of concatenated embeddings causes a great increase in training parameters.	P16-1128_s-6-4-1-3
-Description of the process	The number of latent	The number of latent dimensions for the SVD-reduced space was set at 300 after testing the performance using 300, 600 and 900 latent dimensions.	D12-1112_s-8-5-1-2
-Characteristics of samples or data	a large longitudinal study	The participants were recruited from the Gothenburg MCI study, which is a large longitudinal study on mild cognitive impairment (CITE-p-17-5-7).	D17-1108_s-5-1-0-0
-Criteria for selection	predictors described above were	The predictors described above were selected for inclusion in a larger ensemble on the basis of their performance on the development set.	S15-2002_s-8-1-0-0
-Description of the process	Dictionary and later manually	The pronunciations were generated using CMU Dictionary and later manually corrected.	N07-2003_s-4-3-1-7
-Description of the process	roughly 0005 per word	The reward was set at $0.10 per translation, or roughly $0.005 per word.	P11-1122_s-6-1-1-2
-Reasons why a method was adopted or rejected	partial cognate only this	The same approach was used to extract sentences with the false-friend sense of the partial cognate, only this time we used the false-friend English words.	P06-1056_s-6-1-3-0
-Description of the process	five crowdsourced workers and	The sentences were coded by five crowdsourced workers and one expert.	E17-2037_s-4-1-0-4
-Description of the process	text of a linked	The threshold was set at 200 words of automatically scraped body text of a linked document.	D13-1142_s-5-1-0-4
-Criteria for selection	are likely to be	The verbs were selected from Levin's classes on the basis of our intuitive judgment that they are likely to be used with sufficient frequency to be found in the corpus we had available.	E99-1007_s-8-1-4-0
-Methodology used in past work	and tools available to	There are a number of methods and tools available to carry out this training of feature values.	P03-1040_s-13-5-5-1
-Methodology used in past work	for this purpose cite-	There are a number of methods for this purpose (CITE-p-14-1-7, CITE-p-14-3-4, CITE-p-14-1-6, CITE-p-14-1-19).	E17-1112_s-4-1-1-3
-Methodology used in past work	the document-term matrix MATH-w-6-8-2-11	There are a number of methods to form the document-term matrix MATH-w-6-8-2-11.	D10-1025_s-6-8-2-0
-Criteria for selection	our second run yiGou-midbaitu	These features were only included in our second run yiGou-midbaitu.	S15-2014_s-8-10-1-5
-Criteria for selection	nearest-neighbor search of the	These hashtags were selected on the basis of a nearest-neighbor search of the word embedding space.	S16-1074_s-7-3-1-1
-Description of the process	consolidating multiple annotators work	These statistics are calculated prior to consolidating multiple annotators’ work.	P16-1126_s-8-8-0-1
-Characteristics of samples or data	4 or 8 sets	They were divided into four groups, which received 1, 2, 4 or 8 sets of words.	D15-1134_s-3-7-4-1
-Description of the process	of the resulting sentences	Third, a subset of the resulting sentences were sent to a validation task aimed at providing a highly reliable set of annotations over the same data, and at identifying areas of inferential uncertainty.	D15-1075_s-3-4-4-4
-Description of the process	over a period of	This is to prevent fatigue over a period of time.	P14-2007_s-5-6-2-2
+Description of the process	without any	Our tests were run without any selection of a subject area.	E97-1015_s-8-3-7-0
+Description of the process	based on	Paragraphs were identified based on formatting information available in the articles.	P11-2117_s-4-1-1-1
+Reasons why a method was adopted or rejected	speed over accuracy	Parsing: partsof-speech and constituency parsing using a shift-reduce parser 2 , which was selected for its speed over accuracy.	S17-2108_s-5-5-5-1
+Description of the process	of question	Questions were coded simply by the presence of question marks.	N09-1072_s-8-4-1-3
+Methodology used in past work	    	Reuters-21578 6 is one of the most common testbeds for text categorization.	P06-1133_s-5-8-2-1
+Description of the process	relationships between	Seven possible types of relationships between TREATMENT and DISEASE were identified.	P04-1055_s-4-1-0-2
+Methodology used in past work	for SMT using pivot	Several methods have been proposed for SMT using pivot languages.	P15-2094_s-6-1-0-0
+Methodology used in past work	for smoothing ME models	Several methods have been proposed for smoothing ME models (see CITE-p-7-1-3).	E03-1071_s-3-1-0-0
+Methodology used in past work	used	Singular value decomposition (SVD) is traditionally used to perform this factorization.	D13-1090_s-4-1-0-3
+Description of the process	each region	Six different surveys, each including approximately 50 stimulus words, were administered for each region.	D17-1241_s-4-3-1-2
+Characteristics of samples or data	words 75	Slightly over half of the definitions have a length of 5–16 words; 75% have lengths between 3 and 23 words.	D13-1073_s-12-4-0-5
+Methodology used in past work	for text classification largely	Support vector machines (SVMs) are one of the most popular methods for text classification, largely because they can automatically weight large numbers of features, capturing feature interactions in the process (CITE-p-18-1-13, CITE-p-18-3-5).	N10-1027_s-9-1-0-0
+Characteristics of samples or data	The 79 subcategories	The 79 subcategories were divided into training and testing segments.	S12-1047_s-8-1-0-0
+Reasons why a method was adopted or rejected	are summarized in	The advantages of the new formulation are summarized in Table 1.	N04-2010_s-3-7-1-12
+Reasons why a method was adopted or rejected	that the calculation for merging	The benefit of this approach is that the calculation for merging two clusters depends only on coreference decisions between individual strings, which can be calculated independently.	N07-1016_s-9-1-1-1
+Reasons why a method was adopted or rejected	by looking at an image	The benefit of this approach lies in its generalisation power: once a function between the two semantic spaces is learnt, it can be used to see how an unseen concept relates to other concepts, just by looking at an image of that concept.	N16-1071_s-5-5-1-0
+Criteria for selection	VCL in the	The choice of related pairs in this dataset was drawn from VCL in the following way.	N18-2032_s-8-1-0-0
+Description of the process	of coreferential entities	The coreference feature value was calculated using clusters of coreferential entities.	S14-2139_s-5-3-1-1
+Characteristics of samples or data	75 and testing	The corpus was divided into training (75%) and testing (25%) sets.	N06-3006_s-5-4-1-0
+Criteria for selection	annotate can then	The criteria for selecting the next candidate sentence to annotate can then be described as: MATH-p-9-9-0 where MATH-p-9-11-0	P13-3011_s-9-8-1-0
+Reasons why a method was adopted or rejected	The cutoff of	The cutoff of 20% was chosen to allow a few variations for most phones.	N09-3006_s-12-2-1-1
+Reasons why a method was adopted or rejected	overlap between discriminant	The data split was chosen to have minimal overlap between discriminant features.	S18-1170_s-3-3-3-2
+Description of the process	a previous study	The dataset was obtained from a previous study conducted by the authors.	P17-1131_s-4-1-0-1
+Description of the process	GHz processor	The experiments were performed on an i5, 2.8 GHz processor.	D14-1171_s-4-10-0-6
+Description of the process	The experts could	The experts could access the premises to see if unclear references can be resolved.	E17-1105_s-13-6-1-0
+Characteristics of samples or data	LabWriting consists of	The first dataset called LabWriting consists of 93 patients with schizophrenia who were recruited from sites in both Washington, D.C. and New York City.	S17-1028_s-4-1-0-0
+Description of the process	the languages which are syntactically	The first step was to identify the languages which are syntactically related to the surprise languages and whose treebanks are in Universal Dependency corpus.	K17-3019_s-5-3-1-0
+Description of the process	human ratings	The human ratings were gathered using the Magnitude Estimation technique (CITE-p-13-1-0).	E06-1044_s-5-1-4-7
+Description of the process	spurious order	The input order is randomized, to prevent spurious order effects.	P16-3010_s-8-1-1-1
+Description of the process	draw lines between	The judges were asked to draw lines between matching sentences.	J93-1004_s-7-1-1-3
+Reasons why a method was adopted or rejected	causes a great increase	The main disadvantage of simple concatenation is that word embeddings are commonly used to initialize words in DNN systems; thus, the high-dimensionality of concatenated embeddings causes a great increase in training parameters.	P16-1128_s-6-4-1-3
+Description of the process	the SVD-reduced space	The number of latent dimensions for the SVD-reduced space was set at 300 after testing the performance using 300, 600 and 900 latent dimensions.	D12-1112_s-8-5-1-2
+Characteristics of samples or data	mild cognitive impairment	The participants were recruited from the Gothenburg MCI study, which is a large longitudinal study on mild cognitive impairment (CITE-p-17-5-7).	D17-1108_s-5-1-0-0
+Criteria for selection	for inclusion in a larger	The predictors described above were selected for inclusion in a larger ensemble on the basis of their performance on the development set.	S15-2002_s-8-1-0-0
+Description of the process	and later	The pronunciations were generated using CMU Dictionary and later manually corrected.	N07-2003_s-4-3-1-7
+Description of the process	translation or roughly	The reward was set at $0.10 per translation, or roughly $0.005 per word.	P11-1122_s-6-1-1-2
+Reasons why a method was adopted or rejected	only this time we	The same approach was used to extract sentences with the false-friend sense of the partial cognate, only this time we used the false-friend English words.	P06-1056_s-6-1-3-0
+Description of the process	five crowdsourced	The sentences were coded by five crowdsourced workers and one expert.	E17-2037_s-4-1-0-4
+Description of the process	body text of	The threshold was set at 200 words of automatically scraped body text of a linked document.	D13-1142_s-5-1-0-4
+Criteria for selection	be used with sufficient frequency	The verbs were selected from Levin's classes on the basis of our intuitive judgment that they are likely to be used with sufficient frequency to be found in the corpus we had available.	E99-1007_s-8-1-4-0
+Methodology used in past work	out this training of feature values	There are a number of methods and tools available to carry out this training of feature values.	P03-1040_s-13-5-5-1
+Methodology used in past work	for this purpose cite- cite- cite-	There are a number of methods for this purpose (CITE-p-14-1-7, CITE-p-14-3-4, CITE-p-14-1-6, CITE-p-14-1-19).	E17-1112_s-4-1-1-3
+Methodology used in past work	to form the document-term matrix MATH-w-6-8-2-11	There are a number of methods to form the document-term matrix MATH-w-6-8-2-11.	D10-1025_s-6-8-2-0
+Criteria for selection	second run yiGou-midbaitu	These features were only included in our second run yiGou-midbaitu.	S15-2014_s-8-10-1-5
+Criteria for selection	nearest-neighbor search of the word	These hashtags were selected on the basis of a nearest-neighbor search of the word embedding space.	S16-1074_s-7-3-1-1
+Description of the process	annotators work	These statistics are calculated prior to consolidating multiple annotators’ work.	P16-1126_s-8-8-0-1
+Characteristics of samples or data	8 sets of	They were divided into four groups, which received 1, 2, 4 or 8 sets of words.	D15-1134_s-3-7-4-1
+Description of the process	providing a	Third, a subset of the resulting sentences were sent to a validation task aimed at providing a highly reliable set of annotations over the same data, and at identifying areas of inferential uncertainty.	D15-1075_s-3-4-4-4
+Description of the process	of time	This is to prevent fatigue over a period of time.	P14-2007_s-5-6-2-2
 Using methods used in past work	   	This procedure is based on the WSD algorithm proposed by CITE-p-8-1-1.	S07-1088_s-5-1-0-0
-Reasons why a method was adopted or rejected	no more than a	This rather large window size was employed since the sample sizes for each word were relatively small, often no more than a few hundred instances.	S07-1087_s-3-4-1-2
-Description of the process	the transcripts and audio	This removal was carried out on both the transcripts and audio.	E17-1030_s-6-3-0-1
-Description of the process	with prior work we	To compare with prior work, we use different experimental settings.	P17-1092_s-10-3-0-1
-Description of the process	we double their raw	To increase their significance we double their raw count values.	S18-1030_s-4-4-1-8
-Methodology used in past work	global matrix factorization and	Two of the most popular methods to create such a mapping include: global matrix factorization and the local context window method.	S16-1144_s-8-1-0-2
-Description of the process	individually and one to	Two separate tests were done, one to compare the means for each student individually, and one to compare the means across all students.	P11-3017_s-4-12-1-1
-Description of the process	answer questions like Do	Users were asked to answer questions like “Do you smoke?”	D17-1240_s-4-3-1-1
-Description of the process	from the domain hk	Using the above approach for Chinese-English, 185 candidate sites were searched from the domain hk.	A00-1004_s-9-1-0-0
-Description of the process	the corpus by applying	We cleaned the corpus by applying a language detection tool (langdetect 2 ) to each sentence, in order to remove sentences which are too noisy.	E17-4012_s-5-1-0-5
-Description of the process	of our model over	We derived the test set from the user set in order to establish accuracies of our model over the application domain.	N15-1044_s-5-1-0-4
-Criteria for selection	We established the following	We established the following criteria for selecting textbooks and texts:	E09-3003_s-4-1-3-2
-Description of the process	first discuss the feature	We first discuss the feature set and then the algorithm.	D10-1032_s-7-1-1-1
-Description of the process	online sources of real-world	Web queries were gathered from online sources of real-world queries.	S14-2003_s-7-1-1-8
+Reasons why a method was adopted or rejected	large window size	This rather large window size was employed since the sample sizes for each word were relatively small, often no more than a few hundred instances.	S07-1087_s-3-4-1-2
+Description of the process	transcripts and audio	This removal was carried out on both the transcripts and audio.	E17-1030_s-6-3-0-1
+Description of the process	different experimental	To compare with prior work, we use different experimental settings.	P17-1092_s-10-3-0-1
+Description of the process	we double	To increase their significance we double their raw count values.	S18-1030_s-4-4-1-8
+Methodology used in past work	matrix factorization and the	Two of the most popular methods to create such a mapping include: global matrix factorization and the local context window method.	S16-1144_s-8-1-0-2
+Description of the process	the means	Two separate tests were done, one to compare the means for each student individually, and one to compare the means across all students.	P11-3017_s-4-12-1-1
+Description of the process	questions like Do	Users were asked to answer questions like “Do you smoke?”	D17-1240_s-4-3-1-1
+Description of the process	for Chinese-English	Using the above approach for Chinese-English, 185 candidate sites were searched from the domain hk.	A00-1004_s-9-1-0-0
+Description of the process	We cleaned the corpus	We cleaned the corpus by applying a language detection tool (langdetect 2 ) to each sentence, in order to remove sentences which are too noisy.	E17-4012_s-5-1-0-5
+Description of the process	our model over the	We derived the test set from the user set in order to establish accuracies of our model over the application domain.	N15-1044_s-5-1-0-4
+Criteria for selection	established the following	We established the following criteria for selecting textbooks and texts:	E09-3003_s-4-1-3-2
+Description of the process	We first	We first discuss the feature set and then the algorithm.	D10-1032_s-7-1-1-1
+Description of the process	Web queries	Web queries were gathered from online sources of real-world queries.	S14-2003_s-7-1-1-8
