@@ -1,4 +1,4 @@
-# Dataset for evaluation of detection of communicative functions of sentences and extraction of formulaic expressions
+# Dataset for evaluation of detection of communicative functions of sentences in scholarly papers
 
 The dataset consists of three sets of tsv files. The usage is explained in our paper.
 
