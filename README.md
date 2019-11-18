@@ -27,13 +27,6 @@ The dataset consists of three sets of tsv files. The usage is explained in our p
 0. Sentence
 0. Sentence ID (PaperID_SentID; identical to the ID in AASC)
 
-### sentences_random
-
-0. Communicative function
-0. Randomly picked words that do not contain the core FE part and whose lengths are the same as the core FEs
-0. Sentence
-0. Sentence ID (PaperID_SentID; identical to the ID in AASC)
-
 ## Licence
 
 This dataset is licenced under the Creative Commons BY-NC-SA 3.0. When you use the dataset, please cite our paper (see below).
