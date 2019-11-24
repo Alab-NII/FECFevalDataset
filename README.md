@@ -1,4 +1,4 @@
-# Dataset for evaluation of detection of communicative functions of sentences in scholarly papers
+# An Evaluation Dataset for Identifying Communicative Functions of Sentences in English Scholarly Papers
 
 The dataset consists of three sets of tsv files. The usage is explained in our paper.
 
