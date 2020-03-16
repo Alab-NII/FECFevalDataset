@@ -45,4 +45,14 @@ Licenced under the Creative Commons BY-NC-SA 3.0
 
 ## Citation
 
+Iwatsuki, K., Boudin, F., & Aizawa, A. (2020). An Evaluation Dataset for Identifying Communicative Functions of Sentences in English Scholarly Papers. In *Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC 2020)*, to appear.
 
+```
+@inproceedings{Iwatsuki2020,
+  title="An Evaluation Dataset for Identifying Communicative Functions of Sentences in English Scholarly Papers",
+  author="Kenichi Iwatsuki and Florian Boudin and Akiko Aizawa",
+  booktitle="Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC 2020)",
+  year=2020,
+  pages=""
+}
+```
