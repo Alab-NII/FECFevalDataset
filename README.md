@@ -1,6 +1,6 @@
 # An Evaluation Dataset for Identifying Communicative Functions of Sentences in English Scholarly Papers
 
-The dataset consists of three sets of tsv files. The usage is explained in our paper.
+The dataset consists of three sets of tsv files. The usage is explained in [our paper](https://www.researchgate.net/publication/339658767_An_Evaluation_Dataset_for_Identifying_Communicative_Functions_of_Sentences_in_English_Scholarly_Papers).
 
 ## Description of tsv files
 
@@ -29,7 +29,7 @@ The dataset consists of three sets of tsv files. The usage is explained in our p
 
 ## Licence
 
-This dataset is licenced under the Creative Commons BY-NC-SA 3.0. When you use the dataset, please cite our paper (see below).
+This dataset is licensed under the Creative Commons BY-NC-SA 3.0. When you use the dataset, please cite our paper (see below).
 
 This dataset uses [ACL Anthology Sentence Corpus](https://github.com/KMCS-NII/AASC), which consists of papers retrieved from [ACL Anthology](https://www.aclweb.org/anthology/).
 
@@ -37,11 +37,11 @@ This dataset uses [ACL Anthology Sentence Corpus](https://github.com/KMCS-NII/AA
 
 &copy; 1979-2018 Association for Computational Linguistics
 
-Licenced under the Creative Commons BY-NC-SA 3.0 (-2015) and Creative Commons BY 4.0 (2016-)
+Licensed under the Creative Commons BY-NC-SA 3.0 (-2015) and Creative Commons BY 4.0 (2016-)
 
 ### AASC: ACL Anthology Sentence Corpus
 
-Licenced under the Creative Commons BY-NC-SA 3.0
+Licensed under the Creative Commons BY-NC-SA 3.0
 
 ## Citation
 
