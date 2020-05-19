@@ -45,7 +45,7 @@ Licensed under the Creative Commons BY-NC-SA 3.0
 
 ## Citation
 
-Iwatsuki, K., Boudin, F., & Aizawa, A. (2020). An Evaluation Dataset for Identifying Communicative Functions of Sentences in English Scholarly Papers. In *Proceedings of The 12th Language Resources and Evaluation Conference*, 1705―1713.
+Iwatsuki, K., Boudin, F., & Aizawa, A. (2020). An Evaluation Dataset for Identifying Communicative Functions of Sentences in English Scholarly Papers. In *Proceedings of The 12th Language Resources and Evaluation Conference*, 1705–1713.
 
 ```
 @InProceedings{Iwatsuki2020LREC,
