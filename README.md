@@ -56,7 +56,7 @@ Iwatsuki, K., Boudin, F., & Aizawa, A. (2020). An Evaluation Dataset for Identif
   year           = {2020},
   address        = {Marseille, France},
   publisher      = {European Language Resources Association},
-  pages     = {1705--1713},
-  url       = {https://www.aclweb.org/anthology/2020.lrec-1.211}
+  pages     = {1712--1720},
+  url       = {http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.212.pdf}
 }
 ```
