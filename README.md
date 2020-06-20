@@ -1,6 +1,6 @@
 # An Evaluation Dataset for Identifying Communicative Functions of Sentences in English Scholarly Papers
 
-The dataset consists of three sets of tsv files. The usage is explained in [our paper](https://www.researchgate.net/publication/339658767_An_Evaluation_Dataset_for_Identifying_Communicative_Functions_of_Sentences_in_English_Scholarly_Papers).
+The dataset consists of three sets of tsv files. The usage is explained in [our paper](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.212.pdf).
 
 ## Description of tsv files
 
